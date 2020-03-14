@@ -1,0 +1,3 @@
+-e git+https://github.com/Mystic-Mirage/multipledispatch.git@75211b59b8bd15d2e20209deba772cffcba0aee2#egg=multipledispatch
+polyline
+requests
